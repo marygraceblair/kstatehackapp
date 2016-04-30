@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="6" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="23" pc="268435522" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="7" pc="268435548" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="11" pc="268435569" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="12" pc="268435580" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="14" pc="268435615" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="6" pc="268435642" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="10" pc="268435663" symbol="onMenu"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="11" pc="268435747" symbol="onMenu"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="7" pc="268435753" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="20" pc="268435780" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="21" pc="268435850" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268435868" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268435920" symbol="initialize"/>
+<entry filename="Rez" lineNum="39" pc="268435975" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268435989" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268436129" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436144" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268436196" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268436210" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268436350" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268436365" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268436417" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="48" pc="268436431" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="49" pc="268436571" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268436586" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268436638" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268436652" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268436792" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268436807" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268436859" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268436873" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="57" pc="268437013" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268437028" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268437080" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="21" symbol="menu_label_2"/>
+<entry field="true" id="20" symbol="menu_label_1"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389347" symbol="color"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="Time_Piece_CareMenuDelegate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="27" symbol="item_2"/>
+<entry id="26" symbol="item_1"/>
+<entry field="true" id="22" symbol="emergencyPhone"/>
+<entry id="15" object="true" symbol="MainMenu"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="11" object="true" symbol="Time_Piece_CareApp"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="10" object="true" symbol="Time_Piece_CareDelegate"/>
+<entry field="true" id="18" symbol="diabetic"/>
+<entry field="true" id="17" symbol="allergies"/>
+<entry id="8" object="true" symbol="Time_Piece_CareView"/>
+<entry id="16" method="true" symbol="MainLayout"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="24" symbol="prompt"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="19" symbol="dependantName"/>
+<entry field="true" id="23" symbol="bloodType"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268437137" name="rez_cmp_local_label_N072DJF841" stackId="15" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_VV8GJH60J9_fontHeight" stackId="13" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_HW5396Z9T9" stackId="9" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_N1VBNV3RJN_fontHeight" stackId="4" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_N072DJF841_fontHeight" stackId="16" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_N1VBNV3RJN" stackId="3" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_VV8GJH60J9" stackId="12" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_0C8T2VK1XP_font" stackId="5" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_N1VBNV3RJN_font" stackId="2" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_VV8GJH60J9_font" stackId="11" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_HW5396Z9T9_fontHeight" stackId="10" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_HW5396Z9T9_font" stackId="8" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_N072DJF841_font" stackId="14" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_0C8T2VK1XP" stackId="6" startPc="268435975"/>
+<entry endPc="268437137" name="rez_cmp_local_label_0C8T2VK1XP_fontHeight" stackId="7" startPc="268435975"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Time_Piece_CareView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="Time_Piece_CareView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="Time_Piece_CareView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Time_Piece_CareView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="Time_Piece_CareView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Time_Piece_CareMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="Time_Piece_CareMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Time_Piece_CareDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="Time_Piece_CareDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Time_Piece_CareApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="Time_Piece_CareApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="Time_Piece_CareApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="Time_Piece_CareApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">Time_Piece_Care</string>
+
+    <string id="prompt">Time Piece Care</string>
+
+    <string id="menu_label_1">SOS</string>
+    <string id="menu_label_2">About Time Piece Care</string>
+    <string id="dependantName">John Doe</string>
+    <string id="emergencyPhone">1-000-0000</string>
+    <string id="diabetic">Diabetic</string>
+    <string id="allergies">Peanuts</string>
+    <string id="bloodType">0 positive</string>
+   
+</strings>

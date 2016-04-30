@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="11" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="28" pc="268435522" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="29" pc="268435539" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="30" pc="268435613" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="31" pc="268435637" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="32" pc="268435661" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="33" pc="268435675" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerView.mc" lineNum="36" pc="268435695" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerApp.mc" lineNum="6" pc="268435727" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Take_Care_Manager/source/TakeCareManagerApp.mc" lineNum="19" pc="268435754" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268435794" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268435808" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268435905" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268435920" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268435972" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436018" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436032" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436129" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268436144" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268436196" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="14" symbol="userName"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8" object="true" symbol="TakeCareManagerView"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="TakeCareManagerApp"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435715" name="view" stackId="4" startPc="268435522"/>
+<entry endPc="268435715" name="nameView" stackId="5" startPc="268435522"/>
+<entry endPc="268435715" name="timeString" stackId="3" startPc="268435522"/>
+<entry endPc="268435715" name="clockTime" stackId="2" startPc="268435522"/>
+<entry endPc="268436223" name="rez_cmp_local_label_NameLabel_font" stackId="5" startPc="268435794"/>
+<entry endPc="268436223" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268435794"/>
+<entry endPc="268436223" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268435794"/>
+<entry endPc="268436223" name="rez_cmp_local_label_NameLabel" stackId="6" startPc="268435794"/>
+<entry endPc="268436223" name="rez_cmp_local_label_NameLabel_fontHeight" stackId="7" startPc="268435794"/>
+<entry endPc="268436223" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268435794"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="TakeCareManagerView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="TakeCareManagerView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="TakeCareManagerView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="TakeCareManagerView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="TakeCareManagerView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="TakeCareManagerView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="TakeCareManagerView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="TakeCareManagerApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="TakeCareManagerApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="TakeCareManagerApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="TakeCareManagerApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

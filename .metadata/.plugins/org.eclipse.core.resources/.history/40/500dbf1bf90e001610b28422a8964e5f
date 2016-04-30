@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">Time_Piece_Care</string>
+
+    <string id="prompt">Time Piece Care</string>
+
+    <string id="menu_label_1">SOS</string>
+    <string id="menu_label_2">About Time Piece Care</string>
+</strings>
