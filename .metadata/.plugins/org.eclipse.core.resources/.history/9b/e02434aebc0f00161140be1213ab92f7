@@ -4,7 +4,6 @@ using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.Time as Time;
 using Toybox.Time.Gregorian as Calendar;
-using Toybox.Communications as Com; 
 
 
 class Time_Piece_CareView extends Ui.View {
@@ -32,22 +31,6 @@ class Time_Piece_CareView extends Ui.View {
 
 
         var dateStr = Lang.format("$1$ $2$ $3$", [info.day_of_week, info.month, info.day]);
-         /*
-         Com.makeJsonRequest(
-            "162.243.121.69/message/send/",
-            {
-               1 => Rez.Strings.dependantName, 2  => placeInfo
-            },
-            {
-            	:method => Com.HTTP_REQUEST_METHOD_POST,
-                "Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
-            },
-            method(:onReceive)
-        );
-        */
-         
-         
-         
          
          var dateView = View.findDrawableById("DateLabel"); 
          dateView.setText(dateStr); 

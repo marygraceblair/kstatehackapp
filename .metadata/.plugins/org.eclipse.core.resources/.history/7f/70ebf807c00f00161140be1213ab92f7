@@ -34,11 +34,11 @@ class Time_Piece_Care_HelpView extends Ui.View{
     	Com.makeJsonRequest(
             "162.243.121.69/message/send/",
             {
-              "1" => Rez.Strings.dependantName, 
-               "2"  => placeInfo
+               //"name" => Rez.Strings.dependantName, 
+               //"place"  => placeInfo
             },
             {
-            	:method => Com.HTTP_REQUEST_METHOD_POST//,
+            	:method => Com.HTTP_REQUEST_METHOD_POST,
                 //"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
                 
             },
