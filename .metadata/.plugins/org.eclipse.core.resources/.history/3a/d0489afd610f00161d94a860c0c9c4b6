@@ -2,7 +2,7 @@ using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
-using Toybox.Communications as Com; 
+using Toybox.Communications; 
 using Toybox.Position as Pos; 
 using Toybox.Application as App;
 
@@ -25,7 +25,7 @@ class Time_Piece_Care_HelpView extends Ui.View{
     	Sys.println(placeInfo); 
     	
     	var helpfulInfo = { "a" => Rez.Strings.dependantName, "b" => placeInfo }; //this is not the correct value here.  
-        Com.makeJsonRequest("162.243.121.69", Rez.Strings.dependantName, null, method(:responseCallBack)); 
+        makeJsonRequest("162.243.121.69", Rez.Strings.dependantName, 3, method(:responseCallBack)); 
     	Sys.println(placeInfo); 
     	
     }
@@ -35,6 +35,7 @@ class Time_Piece_Care_HelpView extends Ui.View{
     function onShow() {
     	var gettingHelp = View.findDrawableById("Contact");
         gettingHelp.setText(Rez.Strings.SOS);
+         
         Pos.enableLocationEvents(Pos.LOCATION_ONE_SHOT, method(:onPos)); //enableLocationEvents
         
     }
