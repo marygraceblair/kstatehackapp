@@ -16,130 +16,136 @@
 <entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_MeView.mc" lineNum="39" pc="268435794" symbol="onUpdate"/>
 <entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_MeView.mc" lineNum="44" pc="268435826" symbol="onUpdate"/>
 <entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_MeView.mc" lineNum="47" pc="268435858" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="9" pc="268435884" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="14" pc="268435905" symbol="onLayout"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="25" pc="268435948" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="26" pc="268435972" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="29" pc="268436004" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="11" pc="268436030" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="16" pc="268436051" symbol="onLayout"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="23" pc="268436091" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="24" pc="268436115" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="26" pc="268436147" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="27" pc="268436171" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="34" pc="268436206" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="12" pc="268436232" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="17" pc="268436253" symbol="onLayout"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="24" pc="268436293" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="25" pc="268436310" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="26" pc="268436384" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="27" pc="268436408" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="29" pc="268436422" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="30" pc="268436439" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="33" pc="268436470" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="35" pc="268436546" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="36" pc="268436570" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="38" pc="268436584" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="39" pc="268436608" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="40" pc="268436632" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="41" pc="268436656" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="43" pc="268436680" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="44" pc="268436704" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="47" pc="268436721" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="48" pc="268436753" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="49" pc="268436785" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="50" pc="268436817" symbol="onShow"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="59" pc="268436852" symbol="onUpdate"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="7" pc="268436878" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="11" pc="268436899" symbol="onMenuItem"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="13" pc="268436910" symbol="onMenuItem"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="19" pc="268436996" symbol="onMenuItem"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="23" pc="268437082" symbol="onMenuItem"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="27" pc="268437168" symbol="onMenuItem"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="7" pc="268437246" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="11" pc="268437267" symbol="onMenu"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="12" pc="268437351" symbol="onMenu"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="16" pc="268437357" symbol="onBack"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="18" pc="268437429" symbol="onBack"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="9" pc="268437435" symbol="initialize"/>
-<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="22" pc="268437462" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="30" pc="268437532" symbol="initialize"/>
-<entry filename="Rez" lineNum="31" pc="268437550" symbol="initialize"/>
-<entry filename="Rez" lineNum="32" pc="268437602" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268437654" symbol="initialize"/>
-<entry filename="Rez" lineNum="49" pc="268437709" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="50" pc="268437723" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="51" pc="268437820" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="52" pc="268437835" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="53" pc="268437887" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="54" pc="268437901" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="55" pc="268438011" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="56" pc="268438026" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="57" pc="268438078" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="58" pc="268438092" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="59" pc="268438245" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="60" pc="268438260" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="61" pc="268438312" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="62" pc="268438326" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="63" pc="268438436" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="64" pc="268438451" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="65" pc="268438503" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="66" pc="268438517" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="67" pc="268438627" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="68" pc="268438642" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="69" pc="268438694" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="70" pc="268438708" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="71" pc="268438818" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="72" pc="268438833" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="73" pc="268438885" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="74" pc="268438899" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="75" pc="268439009" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="76" pc="268439024" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="77" pc="268439076" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="78" pc="268439090" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="79" pc="268439200" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="80" pc="268439215" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="81" pc="268439267" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="82" pc="268439281" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="83" pc="268439391" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="84" pc="268439406" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="85" pc="268439458" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="86" pc="268439472" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="87" pc="268439582" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="88" pc="268439597" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="89" pc="268439649" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="90" pc="268439663" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="91" pc="268439773" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="92" pc="268439788" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="93" pc="268439840" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="94" pc="268439854" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="95" pc="268439964" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="96" pc="268439979" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="97" pc="268440031" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="98" pc="268440045" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="99" pc="268440155" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="100" pc="268440170" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="101" pc="268440222" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="102" pc="268440236" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="103" pc="268440346" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="104" pc="268440361" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="105" pc="268440413" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="106" pc="268440427" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="107" pc="268440524" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="108" pc="268440539" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="109" pc="268440591" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="110" pc="268440637" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="111" pc="268440651" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="112" pc="268440748" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="113" pc="268440763" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="114" pc="268440815" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="115" pc="268440861" symbol="MainLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="14" pc="268435884" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="19" pc="268435905" symbol="onLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="26" pc="268435945" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="27" pc="268435969" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="29" pc="268436001" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="32" pc="268436047" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="33" pc="268436099" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="41" pc="268436160" symbol="withLocation"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="46" pc="268436194" symbol="responseCallBack"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_HelpView.mc" lineNum="54" pc="268436215" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="11" pc="268436241" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="16" pc="268436262" symbol="onLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="23" pc="268436302" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="24" pc="268436326" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="26" pc="268436358" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="27" pc="268436382" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_Care_AboutView.mc" lineNum="34" pc="268436417" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="12" pc="268436443" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="17" pc="268436464" symbol="onLayout"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="24" pc="268436504" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="25" pc="268436521" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="26" pc="268436595" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="27" pc="268436619" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="29" pc="268436633" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="30" pc="268436650" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="33" pc="268436681" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="35" pc="268436757" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="36" pc="268436781" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="38" pc="268436795" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="39" pc="268436819" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="40" pc="268436843" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="41" pc="268436867" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="43" pc="268436891" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="44" pc="268436915" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="47" pc="268436932" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="48" pc="268436964" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="49" pc="268436996" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="50" pc="268437028" symbol="onShow"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareView.mc" lineNum="59" pc="268437063" symbol="onUpdate"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="7" pc="268437089" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="11" pc="268437110" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="13" pc="268437121" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="19" pc="268437207" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="23" pc="268437293" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareMenuDelegate.mc" lineNum="27" pc="268437379" symbol="onMenuItem"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="7" pc="268437457" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="11" pc="268437478" symbol="onMenu"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="12" pc="268437562" symbol="onMenu"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="16" pc="268437568" symbol="onBack"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareDelegate.mc" lineNum="18" pc="268437640" symbol="onBack"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="9" pc="268437646" symbol="initialize"/>
+<entry filename="/Users/MaryGrace/Documents/workspace/Time_Piece_Care/source/Time_Piece_CareApp.mc" lineNum="22" pc="268437673" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="30" pc="268437743" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268437761" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268437813" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268437865" symbol="initialize"/>
+<entry filename="Rez" lineNum="49" pc="268437920" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268437934" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268438031" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268438046" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268438098" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268438112" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268438222" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268438237" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="57" pc="268438289" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268438303" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268438456" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268438471" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268438523" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268438537" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268438647" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268438662" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268438714" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268438728" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438838" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="68" pc="268438853" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="69" pc="268438905" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268438919" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="71" pc="268439029" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268439044" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="73" pc="268439096" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="74" pc="268439110" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="75" pc="268439220" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="76" pc="268439235" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="77" pc="268439287" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="78" pc="268439301" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="79" pc="268439411" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="80" pc="268439426" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="81" pc="268439478" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="82" pc="268439492" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="83" pc="268439602" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="84" pc="268439617" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="85" pc="268439669" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="86" pc="268439683" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="87" pc="268439793" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="88" pc="268439808" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="89" pc="268439860" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="90" pc="268439874" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="91" pc="268439984" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="92" pc="268439999" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="93" pc="268440051" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="94" pc="268440065" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="95" pc="268440175" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="96" pc="268440190" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="97" pc="268440242" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="98" pc="268440256" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="99" pc="268440366" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="100" pc="268440381" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="101" pc="268440433" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="102" pc="268440447" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="103" pc="268440557" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="104" pc="268440572" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="105" pc="268440624" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="106" pc="268440638" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="107" pc="268440735" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="108" pc="268440750" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="109" pc="268440802" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="110" pc="268440848" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="111" pc="268440862" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="112" pc="268440959" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="113" pc="268440974" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="114" pc="268441026" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="115" pc="268441072" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="12" object="true" symbol="Time_Piece_CareMenuDelegate"/>
 <entry field="true" id="22" symbol="dependantName"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
+<entry id="8388637" module="true" symbol="Communications"/>
 <entry id="11" object="true" symbol="Time_Piece_CareView"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
@@ -147,6 +153,7 @@
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry field="true" id="31" symbol="SOS"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="38" method="true" symbol="withLocation"/>
 <entry field="true" id="28" symbol="phone"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="19" method="true" symbol="MainLayout"/>
@@ -158,9 +165,9 @@
 <entry field="true" id="26" symbol="AppName"/>
 <entry id="10" object="true" symbol="Time_Piece_Care_AboutView"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry id="39" symbol="item_3"/>
-<entry id="38" symbol="item_2"/>
-<entry id="37" symbol="item_1"/>
+<entry id="44" symbol="item_3"/>
+<entry id="43" symbol="item_2"/>
+<entry id="42" symbol="item_1"/>
 <entry field="true" id="17" symbol="LauncherIcon"/>
 <entry id="9" object="true" symbol="Time_Piece_Care_HelpView"/>
 <entry field="true" id="29" symbol="menu_label_3"/>
@@ -168,6 +175,7 @@
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="32" symbol="menu_label_1"/>
 <entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="37" symbol="placeInfo"/>
 <entry field="true" id="23" symbol="myPhoneNumber"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="24" symbol="city"/>
@@ -183,6 +191,7 @@
 <entry field="true" id="25" symbol="bloodType"/>
 <entry id="16" module="true" symbol="Layouts"/>
 <entry field="true" id="36" symbol="prompt"/>
+<entry id="39" method="true" symbol="responseCallBack"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="14" object="true" symbol="Time_Piece_CareApp"/>
 <entry id="8389346" symbol="text"/>
@@ -201,69 +210,70 @@
 <entry endPc="268435878" name="streetView" stackId="3" startPc="268435522"/>
 <entry endPc="268435878" name="myPhoneNumberView" stackId="6" startPc="268435522"/>
 <entry endPc="268435878" name="myContactView" stackId="7" startPc="268435522"/>
-<entry endPc="268436024" name="gettingHelp" stackId="2" startPc="268435948"/>
-<entry endPc="268436203" name="appNameView" stackId="1" startPc="268436091"/>
-<entry endPc="268436203" name="helpView" stackId="2" startPc="268436091"/>
-<entry endPc="268436849" name="phoneView" stackId="11" startPc="268436293"/>
-<entry endPc="268436849" name="timeString" stackId="2" startPc="268436293"/>
-<entry endPc="268436849" name="now" stackId="4" startPc="268436293"/>
-<entry endPc="268436849" name="info" stackId="5" startPc="268436293"/>
-<entry endPc="268436849" name="dateStr" stackId="6" startPc="268436293"/>
-<entry endPc="268436849" name="clockTime" stackId="1" startPc="268436293"/>
-<entry endPc="268436849" name="dateView" stackId="7" startPc="268436293"/>
-<entry endPc="268436849" name="allergyDescriptionView" stackId="12" startPc="268436293"/>
-<entry endPc="268436849" name="allergiesView" stackId="9" startPc="268436293"/>
-<entry endPc="268436849" name="view" stackId="3" startPc="268436293"/>
-<entry endPc="268436849" name="diabeticView" stackId="8" startPc="268436293"/>
-<entry endPc="268436849" name="bloodTypeView" stackId="10" startPc="268436293"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Prompt" stackId="9" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_BloodType" stackId="24" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_AllergyDescription" stackId="18" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DateLabel_font" stackId="5" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DependantLabel_fontHeight" stackId="28" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DiabeticLabel_fontHeight" stackId="16" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DiabeticLabel_font" stackId="14" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Contact" stackId="45" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyPhoneNumberLabel" stackId="39" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StreetLabel_font" stackId="29" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_helpLabel" stackId="48" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyContactLabel" stackId="42" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_PhoneLabel" stackId="12" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="7" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DiabeticLabel" stackId="15" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StateLabel_fontHeight" stackId="37" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_BloodType_fontHeight" stackId="25" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_AllergyDescription_fontHeight" stackId="19" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_CityLabel" stackId="33" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Prompt_fontHeight" stackId="10" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyContactLabel_font" stackId="41" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Prompt_font" stackId="8" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Contact_fontHeight" stackId="46" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyPhoneNumberLabel_font" stackId="38" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_PhoneLabel_fontHeight" stackId="13" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StreetLabel" stackId="30" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Allergies_fontHeight" stackId="22" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_helpLabel_font" stackId="47" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_BloodType_font" stackId="23" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DependantLabel_font" stackId="26" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_CityLabel_font" stackId="32" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Allergies" stackId="21" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_AllergyDescription_font" stackId="17" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyPhoneNumberLabel_fontHeight" stackId="40" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DependantLabel" stackId="27" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StateLabel_font" stackId="35" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_PhoneLabel_font" stackId="11" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_helpLabel_fontHeight" stackId="49" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_CityLabel_fontHeight" stackId="34" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Allergies_font" stackId="20" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StreetLabel_fontHeight" stackId="31" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_Contact_font" stackId="44" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_MyContactLabel_fontHeight" stackId="43" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_DateLabel" stackId="6" startPc="268437709"/>
-<entry endPc="268441028" name="rez_cmp_local_label_StateLabel" stackId="36" startPc="268437709"/>
+<entry endPc="268436157" name="helpfulInfo" stackId="2" startPc="268435945"/>
+<entry endPc="268436157" name="gettingHelp" stackId="1" startPc="268435945"/>
+<entry endPc="268436414" name="appNameView" stackId="1" startPc="268436302"/>
+<entry endPc="268436414" name="helpView" stackId="2" startPc="268436302"/>
+<entry endPc="268437060" name="phoneView" stackId="11" startPc="268436504"/>
+<entry endPc="268437060" name="timeString" stackId="2" startPc="268436504"/>
+<entry endPc="268437060" name="now" stackId="4" startPc="268436504"/>
+<entry endPc="268437060" name="info" stackId="5" startPc="268436504"/>
+<entry endPc="268437060" name="dateStr" stackId="6" startPc="268436504"/>
+<entry endPc="268437060" name="clockTime" stackId="1" startPc="268436504"/>
+<entry endPc="268437060" name="dateView" stackId="7" startPc="268436504"/>
+<entry endPc="268437060" name="allergyDescriptionView" stackId="12" startPc="268436504"/>
+<entry endPc="268437060" name="allergiesView" stackId="9" startPc="268436504"/>
+<entry endPc="268437060" name="view" stackId="3" startPc="268436504"/>
+<entry endPc="268437060" name="diabeticView" stackId="8" startPc="268436504"/>
+<entry endPc="268437060" name="bloodTypeView" stackId="10" startPc="268436504"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Prompt" stackId="9" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_BloodType" stackId="24" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_AllergyDescription" stackId="18" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DateLabel_font" stackId="5" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DependantLabel_fontHeight" stackId="28" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DiabeticLabel_fontHeight" stackId="16" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DiabeticLabel_font" stackId="14" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Contact" stackId="45" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyPhoneNumberLabel" stackId="39" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StreetLabel_font" stackId="29" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_helpLabel" stackId="48" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyContactLabel" stackId="42" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_PhoneLabel" stackId="12" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="7" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DiabeticLabel" stackId="15" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StateLabel_fontHeight" stackId="37" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_BloodType_fontHeight" stackId="25" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_AllergyDescription_fontHeight" stackId="19" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_CityLabel" stackId="33" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Prompt_fontHeight" stackId="10" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyContactLabel_font" stackId="41" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Prompt_font" stackId="8" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Contact_fontHeight" stackId="46" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyPhoneNumberLabel_font" stackId="38" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_PhoneLabel_fontHeight" stackId="13" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StreetLabel" stackId="30" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Allergies_fontHeight" stackId="22" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_helpLabel_font" stackId="47" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_BloodType_font" stackId="23" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DependantLabel_font" stackId="26" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_CityLabel_font" stackId="32" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Allergies" stackId="21" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_AllergyDescription_font" stackId="17" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyPhoneNumberLabel_fontHeight" stackId="40" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DependantLabel" stackId="27" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StateLabel_font" stackId="35" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_PhoneLabel_font" stackId="11" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_helpLabel_fontHeight" stackId="49" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_CityLabel_fontHeight" stackId="34" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Allergies_font" stackId="20" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StreetLabel_fontHeight" stackId="31" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_Contact_font" stackId="44" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_MyContactLabel_fontHeight" stackId="43" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_DateLabel" stackId="6" startPc="268437920"/>
+<entry endPc="268441239" name="rez_cmp_local_label_StateLabel" stackId="36" startPc="268437920"/>
 </localVars>
 <annotations/>
 <functions>
@@ -293,6 +303,15 @@
 </functionEntry>
 <functionEntry name="onShow" parent="Time_Piece_Care_HelpView">
 <documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="withLocation" parent="Time_Piece_Care_HelpView">
+<param id="information"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="responseCallBack" parent="Time_Piece_Care_HelpView">
+<param id="responseCode"/>
+<param id="Data"/>
+<documentation/>
 </functionEntry>
 <functionEntry name="onUpdate" parent="Time_Piece_Care_HelpView">
 <param id="dc"/>

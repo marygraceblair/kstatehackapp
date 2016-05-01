@@ -36,7 +36,7 @@ class Time_Piece_Care_HelpView extends Ui.View{
     	//method(:onPosition)
     }
     
-    function withLocation(information)
+    function withLocation( information)
     {
     	placeInfo = information.toGeoString(Pos.GEO_DMS); 
     }
