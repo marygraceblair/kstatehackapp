@@ -25,10 +25,24 @@ class Time_Piece_Care_HelpView extends Ui.View{
     	placeInfo = information.position.toGeoString(Pos.GEO_DMS); //with position.info??? which is argument. 
     	Sys.println(placeInfo); 
     	
-    	var com_options = {1 => "HTTP_REQUEST_METHOD_POST"};
+    	var com_options = {3 => Com.HTTP_REQUEST_METHOD_GET};
 	
-    	var helpfulInfo = { "a" => Rez.Strings.dependantName, "b" => placeInfo }; //this is not the correct value here.  
-        Com.makeJsonRequest("162.243.121.69/message/send", Rez.Strings.dependantName, com_options , method(:responseCallback)); 
+    	//var helpfulInfo = { 1 => Rez.Strings.dependantName, 2  => placeInfo }; 
+        //Com.makeJsonRequest("162.243.121.69/message/send/", helpfulInfo, com_options, method(:responseCallback)); 
+    	
+    	Com.makeJsonRequest(
+            "162.243.121.69/message/send/",
+            {
+               1 => Rez.Strings.dependantName, 2  => placeInfo
+            },
+            {
+            	:method => Com.HTTP_REQUEST_METHOD_POST,
+                "Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
+            },
+            method(:onReceive)
+        );
+    	
+    	
     	Sys.println(placeInfo); 
     	
     }
@@ -45,8 +59,11 @@ class Time_Piece_Care_HelpView extends Ui.View{
     
     
     
-    function responseCallback(responseCode, Data) {
-    	Ui.popView(); 
+    function onReceive(responseCode, Data) {
+    	//Ui.popView(); 
+    	Sys.println(responseCode); 
+    	Sys.println(Data); 
+    	Ui.switchToView(new Time_Piece_CareView(), new Time_Piece_CareDelegate(), Ui.SLIDE_UP);
     }
     
 

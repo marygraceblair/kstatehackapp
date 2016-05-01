@@ -15,12 +15,12 @@
     
     <string id="myPhoneNumber">My Phone Number:</string>
     <string id="phone">0-000-0000</string>
-    <string id="emergencyPhone">1-000-0000</string>
+    <string id="emergencyPhone">1-867-5309</string>
     <string id="diabetic">Diabetic</string>
     <string id="allergies">Peanuts</string>
-    <string id="bloodType">sdf</string>
+    <string id="bloodType">O Positive</string>
     
-    <string id="familyAdmin">sdf</string>
+    <string id="familyAdmin">John Doe</string>
     
     
     <string id="SOS">Contacting Family Member...</string>
