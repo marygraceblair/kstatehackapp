@@ -10,6 +10,11 @@ class Time_Piece_Care_HelpView extends Ui.View{
 	
 	var placeInfo = "generating GPS data"; 
 	
+	
+	var options_com = {
+        3 => HTTP_REQUEST_METHOD_POST
+        
+    	};
     	
 	function initialize() {
         View.initialize();
@@ -25,10 +30,10 @@ class Time_Piece_Care_HelpView extends Ui.View{
     	placeInfo = information.position.toGeoString(Pos.GEO_DMS); //with position.info??? which is argument. 
     	Sys.println(placeInfo); 
     	
-    	var com_options = {1 => "HTTP_REQUEST_METHOD_POST"};
-	
+    	
+    	
     	var helpfulInfo = { "a" => Rez.Strings.dependantName, "b" => placeInfo }; //this is not the correct value here.  
-        Com.makeJsonRequest("162.243.121.69/message/send", Rez.Strings.dependantName, com_options , method(:responseCallback)); 
+        Com.makeJsonRequest("162.243.121.69/message/send", Rez.Strings.dependantName, options_com[3], method(:responseCallback)); 
     	Sys.println(placeInfo); 
     	
     }
