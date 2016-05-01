@@ -1,14 +1,33 @@
 <strings>
-    <string id="AppName">Time_Piece_Care</string>
+    <string id="AppName">Time Piece Care</string>
 
     <string id="prompt">Time Piece Care</string>
 
     <string id="menu_label_1">I Need Help</string>
-    <string id="menu_label_2">About Time Piece Care</string>
-    <string id="dependantName">John Doe</string>
+    <string id="menu_label_2">Who Am I</string>
+    <string id="menu_label_3">About</string>
+    
+    <string id="dependantName">sfsdf</string>
+    <string id="street">street Address</string>
+    <string id="city">city Address</string>
+    <string id="state">State</string>
+    
+    
+    <string id="myPhoneNumber">My Phone Number:</string>
+    <string id="phone">0-000-0000</string>
     <string id="emergencyPhone">1-000-0000</string>
     <string id="diabetic">Diabetic</string>
     <string id="allergies">Peanuts</string>
-    <string id="bloodType">0 positive</string>
+    <string id="bloodType">sdf</string>
+    
+    
+    
+    
+    <string id="familyAdmin">sdf</string>
+    
+    
+    <string id="SOS">Contacting Family Member...</string>
+    
+    <string id="help_url">timepiececare.net/help</string>
    
 </strings>

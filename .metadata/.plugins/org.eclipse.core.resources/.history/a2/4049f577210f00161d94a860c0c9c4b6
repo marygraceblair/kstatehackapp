@@ -1,0 +1,13 @@
+<layout id="MainLayout">
+	<label id="TimeLabel" x="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+    <label id="DateLabel" x="center" y = "25" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+    
+    <label x="center" y= "200" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    
+    <label x="center" y="60" font = "Gfx.FONT_SMALL" text="@Strings.dependantName" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label x="center" y="75" font = "Gfx.FONT_SMALL" text="@Strings.emergencyPhone" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label x="center" y="90" font = "Gfx.FONT_SMALL" text="@Strings.diabetic" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label x="center" y="115" font = "Gfx.FONT_SMALL" text="@Strings.allergies" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	
+	<label id="Contact" x="center" y="center" font ="Gfx.FONT_SMALL" text="Contacting: @Strings.familyAdmin" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+</layout>

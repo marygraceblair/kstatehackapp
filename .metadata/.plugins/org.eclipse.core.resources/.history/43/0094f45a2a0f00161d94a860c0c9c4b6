@@ -1,0 +1,31 @@
+using Toybox.Application as App;
+using Toybox.WatchUi as Ui;
+using Toybox.System as Sys;
+
+
+class Time_Piece_CareApp extends App.AppBase {
+
+    function initialize() {
+        AppBase.initialize();
+    }
+
+    //! onStart() is called on application start up
+    function onStart() {
+    }
+
+    //! onStop() is called when your application is exiting
+    function onStop() {
+    }
+
+    //! Return the initial view of your application here
+    function getInitialView() {
+        return [ new Time_Piece_CareView(), new Time_Piece_CareDelegate() ];
+    }
+    
+    function onBack() {
+    	Sys.println("back clicked");
+    	//Ui.switchToView(new Time_Piece_CareView(), new Time_Piece_CareMenuDelegate(), Ui.SLIDE_UP);
+    	Ui.popView(Ui.SLIDE_UP); 
+    }
+
+}

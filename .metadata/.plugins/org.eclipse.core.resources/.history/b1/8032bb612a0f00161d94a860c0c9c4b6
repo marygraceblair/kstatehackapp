@@ -1,0 +1,14 @@
+using Toybox.WatchUi as Ui;
+
+class Time_Piece_CareDelegate extends Ui.BehaviorDelegate {
+
+    function initialize() {
+        BehaviorDelegate.initialize();
+    }
+
+    function onMenu() {
+        Ui.pushView(new Rez.Menus.MainMenu(), new Time_Piece_CareMenuDelegate(), Ui.SLIDE_UP);
+        return true;
+    }
+
+}

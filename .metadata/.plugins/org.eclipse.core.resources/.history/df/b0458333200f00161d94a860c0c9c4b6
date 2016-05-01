@@ -1,0 +1,18 @@
+<strings>
+    <string id="AppName">Time_Piece_Care</string>
+
+    <string id="prompt">Time Piece Care</string>
+
+    <string id="menu_label_1">I Need Help</string>
+    <string id="menu_label_2">Who am I</string>
+    <string id="menu_label_3">About Time Piece Care</string>
+    <string id="dependantName"></string>
+    <string id="emergencyPhone"></string>
+    <string id="diabetic"></string>
+    <string id="allergies"></string>
+    <string id="bloodType"></string>
+    
+    <string id="familyAdmin"></string>
+    
+   
+</strings>

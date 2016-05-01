@@ -1,6 +1,8 @@
 using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
+
+
 class Time_Piece_CareApp extends App.AppBase {
 
     function initialize() {
@@ -19,5 +21,6 @@ class Time_Piece_CareApp extends App.AppBase {
     function getInitialView() {
         return [ new Time_Piece_CareView(), new Time_Piece_CareDelegate() ];
     }
-
+    
+    
 }

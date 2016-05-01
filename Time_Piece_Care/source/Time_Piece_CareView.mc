@@ -1,4 +1,10 @@
 using Toybox.WatchUi as Ui;
+using Toybox.Graphics as Gfx;
+using Toybox.System as Sys;
+using Toybox.Lang as Lang;
+using Toybox.Time as Time;
+using Toybox.Time.Gregorian as Calendar;
+
 
 class Time_Piece_CareView extends Ui.View {
 
@@ -19,6 +25,34 @@ class Time_Piece_CareView extends Ui.View {
 
     //! Update the view
     function onUpdate(dc) {
+    	var clockTime = Sys.getClockTime();
+        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
+        var view = View.findDrawableById("TimeLabel");
+         view.setText(timeString);
+         
+        var now = Time.now();
+        var info = Calendar.info(now, Time.FORMAT_LONG);
+
+
+        var dateStr = Lang.format("$1$ $2$ $3$", [info.day_of_week, info.month, info.day]);
+         
+         var dateView = View.findDrawableById("DateLabel"); 
+         dateView.setText(dateStr); 
+         
+         var diabeticView = View.findDrawableById("DiabeticLabel"); 
+         var allergiesView = View.findDrawableById("Allergies"); 
+         var bloodTypeView = View.findDrawableById("BloodType");
+         var phoneView = View.findDrawableById("PhoneLabel"); 
+         
+         var allergyDescriptionView = View.findDrawableById("AllergyDescription"); 
+         allergyDescriptionView.setText("Allergies: "); 
+         
+         
+         diabeticView.setText(Rez.Strings.diabetic); 
+         allergiesView.setText(Rez.Strings.allergies); 
+      	 phoneView.setText(Rez.Strings.emergencyPhone);
+         bloodTypeView.setText(Rez.Strings.bloodType); 
+         
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
     }
@@ -28,5 +62,8 @@ class Time_Piece_CareView extends Ui.View {
     //! memory.
     function onHide() {
     }
+    
+    
+    
 
 }

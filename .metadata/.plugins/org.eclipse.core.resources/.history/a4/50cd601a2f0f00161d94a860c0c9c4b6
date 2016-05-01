@@ -1,0 +1,19 @@
+<layout id="MainLayout">
+	<label id="TimeLabel" x="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+    <label id="DateLabel" x="center" y = "25" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+    
+    <label id="Prompt" x="center" y= "200" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    
+	<label id="PhoneLabel" x="center" y="75" font = "Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id ="DiabeticLabel" x="center" y="90" font = "Gfx.FONT_SMALL"  color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id = "Allergies" x="center" y="115" font = "Gfx.FONT_SMALL"  color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id = "BloodType" x="center" y="135" font = "Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	
+	
+	<label id="DependantLabel" x="center" y="60" font = "Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id = "AddressLabel" x="center" y="90" font = "Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	
+	
+	<label id="Contact" x="center" y="center" font ="Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+	
+</layout>
